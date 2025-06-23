@@ -2,9 +2,34 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Gita Library</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/lunr/lunr.min.js"></script>
 </head>
 <body>
-  <h1>Привет, библиотека Гиты!</h1>
+  <header>
+    <h1 id="book-title">Бхагавад-гита</h1>
+    <select id="lang-switch">
+      <option value="ru">Русский</option>
+      <option value="en">English</option>
+    </select>
+    <input type="text" id="search" placeholder="Поиск по книге..."/>
+  </header>
+
+  <main id="verse-container">
+    <div id="verse-text">Выберите стих...</div>
+  </main>
+
+  <div id="nav-buttons">
+    <button id="prev-verse">⏮️ Предыдущий</button>
+    <button id="next-verse">Следующий ⏭️</button>
+  </div>
+
+  <nav id="books">
+    <button data-book="gita" class="book-button">Бхагавад-гита</button>
+  </nav>
+
+  <script src="script.js"></script>
 </body>
 </html>
