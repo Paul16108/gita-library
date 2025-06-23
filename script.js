@@ -18,7 +18,7 @@ async function loadBook(book, lang) {
   }
   currentIndex = 0;
   showVerse();
-  buildIndex(text);
+    buildIndex();
 }
 
 function showVerse() {
@@ -29,13 +29,13 @@ function showVerse() {
   verseBox.textContent = verses[currentIndex] || '';
 }
 
-function buildIndex(text) {
-  idx = lunr(function() {
-    this.ref('id');
-    this.field('body');
-    text.split(/\n+/).forEach((p, i) => this.add({ id: i, body: p }));
-  });
-}
+  function buildIndex() {
+    idx = lunr(function() {
+      this.ref('id');
+      this.field('body');
+      verses.forEach((v, i) => this.add({ id: i, body: v }));
+    });
+  }
 
 booksNav.addEventListener('click', e => {
   if (e.target.dataset.book) {
@@ -71,7 +71,7 @@ searchInput.oninput = () => {
   }
   const res = idx.search(q);
   if (res.length > 0) {
-    const lineId = res[0].ref;
-    verseBox.textContent = res[0].matchData.metadata ? q : verses[lineId] || '';
+    const verseId = parseInt(res[0].ref, 10);
+    verseBox.textContent = verses[verseId] || '';
   }
 };
