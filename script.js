@@ -14,14 +14,14 @@ const state = {
   verses: [],
   chapters: [],
   currentIndex: 0,
-  currentChapter: null,
+  currentChapter: 1,
+  currentVerse: 1,
   currentBook: null,
   currentLang: 'ru',
   searchIndex: null,
   theme: 'auto',
   fontSize: 'medium',
-  isLoading: false,
-  currentView: 'chapters' // 'chapters', 'verses', 'verse'
+  isLoading: false
 };
 
 // DOM Elements
@@ -33,12 +33,6 @@ const elements = {
   themeSwitch: document.getElementById('theme-switch'),
   fontSizeSwitch: document.getElementById('font-size-switch'),
   bookSelector: document.getElementById('bookSelect'),
-  searchInput: document.getElementById('search'),
-  searchSection: document.getElementById('search-section'),
-  chaptersSection: document.getElementById('chapters-section'),
-  chaptersGrid: document.getElementById('chapters-grid'),
-  versesSection: document.getElementById('verses-section'),
-  versesList: document.getElementById('verses-list'),
   verseSection: document.getElementById('verse-section'),
   verseTitle: document.getElementById('verse-title'),
   verseContent: document.getElementById('verse-content'),
@@ -130,8 +124,8 @@ async function loadBook(book, lang) {
     // Build search index
     buildSearchIndex();
     
-    // Show chapters view
-    showChaptersView();
+    // Show first verse
+    showVerse();
     
     // Haptic feedback
     if (tg?.HapticFeedback) {
@@ -157,7 +151,7 @@ function parseBookContent(text) {
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     
-    // Chapter header
+    // Chapter header (Russian)
     if (line.startsWith('# Глава ')) {
       if (currentChapter) {
         chapters.push(currentChapter);
@@ -171,7 +165,21 @@ function parseBookContent(text) {
       };
     }
     
-    // Verse header
+    // Chapter header (English)
+    else if (line.startsWith('## Chapter ')) {
+      if (currentChapter) {
+        chapters.push(currentChapter);
+      }
+      
+      const chapterNum = line.match(/## Chapter (\d+)/)?.[1];
+      currentChapter = {
+        number: parseInt(chapterNum),
+        title: `Chapter ${chapterNum}`,
+        verses: []
+      };
+    }
+    
+    // Verse header (Russian)
     else if (line.match(/^## \d+\.\d+/)) {
       if (currentVerse && verseNumber && currentChapter) {
         currentChapter.verses.push({
@@ -181,6 +189,19 @@ function parseBookContent(text) {
       }
       
       verseNumber = line.replace('## ', '');
+      currentVerse = '';
+    }
+    
+    // Verse header (English)
+    else if (line.match(/^### \d+\.\d+/)) {
+      if (currentVerse && verseNumber && currentChapter) {
+        currentChapter.verses.push({
+          number: verseNumber,
+          content: currentVerse.trim()
+        });
+      }
+      
+      verseNumber = line.replace('### ', '');
       currentVerse = '';
     }
     
@@ -289,7 +310,7 @@ function updateNavigationButtons() {
 }
 
 function goToPreviousVerse() {
-  if (!state.currentChapter || state.currentIndex <= 0) return;
+  if (state.currentIndex <= 0) return;
   
   state.currentIndex--;
   showVerse();
@@ -301,8 +322,6 @@ function goToPreviousVerse() {
 }
 
 function goToNextVerse() {
-  if (!state.currentChapter || state.chapters.length === 0) return;
-  
   const chapter = state.chapters.find(ch => ch.number === state.currentChapter);
   if (!chapter || state.currentIndex >= chapter.verses.length - 1) return;
   
@@ -360,23 +379,33 @@ function highlightSearchTerms(query) {
   }
 }
 
-// UI State Management
-function showChaptersView() {
-  state.currentView = 'chapters';
-  elements.searchSection.style.display = 'block';
-  elements.chaptersSection.style.display = 'block';
-  elements.versesSection.style.display = 'none';
-  elements.verseSection.style.display = 'none';
-  elements.sideNav.style.display = 'none';
-  
-  renderChapters();
-  
-  if (tg) {
-    tg.BackButton.hide();
+// Show current verse
+function showVerse() {
+  const chapter = state.chapters.find(ch => ch.number === state.currentChapter);
+  if (!chapter || !chapter.verses[state.currentIndex]) {
+    elements.verseText.textContent = 'Загрузка...';
+    return;
   }
+  
+  const verse = chapter.verses[state.currentIndex];
+  elements.verseTitle.textContent = verse.number;
+  elements.verseText.innerHTML = verse.content;
+  
+  updateNavigationButtons();
 }
 
-function showVersesView(chapterNumber) {
+// Update navigation buttons
+function updateNavigationButtons() {
+  const chapter = state.chapters.find(ch => ch.number === state.currentChapter);
+  if (!chapter) {
+    elements.prevBtn.disabled = true;
+    elements.nextBtn.disabled = true;
+    return;
+  }
+  
+  elements.prevBtn.disabled = state.currentIndex <= 0;
+  elements.nextBtn.disabled = state.currentIndex >= chapter.verses.length - 1;
+}
   state.currentView = 'verses';
   state.currentChapter = chapterNumber;
   elements.searchSection.style.display = 'block';
@@ -607,7 +636,7 @@ function init() {
   // Initialize event listeners
   initEventListeners();
   
-  // Auto-load Bhagavad Gita
+  // Auto-load Bhagavad Gita and show first verse
   loadBook('gita', state.currentLang);
   
   // Telegram-specific initialization

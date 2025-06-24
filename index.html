@@ -12,19 +12,9 @@
   <!-- Header -->
   <header class="header">
     <div class="header-title">
-      <button class="book-nav-btn book-nav-left" id="prevBook">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-          <path d="M10 12L6 8L10 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg>
-      </button>
       <select class="book-select" id="bookSelect">
         <option value="gita">Бхагавад-гита</option>
       </select>
-      <button class="book-nav-btn book-nav-right" id="nextBook">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-          <path d="M6 12L10 8L6 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg>
-      </button>
     </div>
     <button class="menu-btn" id="menuBtn">
       <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
@@ -74,48 +64,23 @@
 
   <!-- Main Content -->
   <main class="main-content">
-    <!-- Search Section -->
-    <div class="search-section" id="search-section">
-      <div class="search-container">
-        <div class="search-input-wrapper">
-          <svg class="search-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
-            <circle cx="9" cy="9" r="6" stroke="currentColor" stroke-width="2"/>
-            <path d="m15 15 6 6" stroke="currentColor" stroke-width="2"/>
-          </svg>
-          <input type="text" id="search" class="search-input" placeholder="Поиск по книге..."/>
-        </div>
-      </div>
-    </div>
-
-    <!-- Chapters List -->
-    <div class="chapters-section" id="chapters-section">
-      <div class="chapters-grid" id="chapters-grid">
-        <!-- Chapters will be populated by JavaScript -->
-      </div>
-    </div>
-
-    <!-- Verses List -->
-    <div class="verses-section" id="verses-section" style="display: none;">
-      <div class="verses-list" id="verses-list">
-        <!-- Verses will be populated by JavaScript -->
-      </div>
-    </div>
-
-    <!-- Verse Content -->
-    <div class="verse-section" id="verse-section" style="display: none;">
+    <!-- Single View -->
+    <div class="verse-section" id="verse-section">
       <div class="verse-card">
         <div class="verse-header">
-          <h2 id="verse-title"></h2>
+          <h2 id="verse-title">1.1</h2>
         </div>
         <div class="verse-content" id="verse-content">
-          <div class="verse-text" id="verse-text"></div>
+          <div class="verse-text" id="verse-text">
+            <!-- Content will be loaded here -->
+          </div>
         </div>
       </div>
     </div>
   </main>
 
   <!-- Navigation -->
-  <nav class="side-nav" id="side-nav" style="display: none;">
+  <nav class="side-nav" id="side-nav">
     <button class="nav-button-side nav-button-left" id="prev-verse">
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
         <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
