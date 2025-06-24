@@ -1,114 +1,179 @@
 # Глава 1  
 ## 1.1  
+dhṛtarāṣṭra uvāca
+dharma-kṣetre kuru-kṣetre
+samavetā yuyutsavaḥ
+māmakāḥ pāṇḍavāś caiva
+kim akurvata sañjaya
+
+Перевод стиха:
+Дхритараштра сказал: О Санжая, после того как мои сыновья и сыновья Панду собрались на поле дхармы, на Курукшетре, желая сражаться, что они сделали?
+
+⸻
+
+Комментарий Шрилы А.Ч. Бхактиведанты Свами Прабхупады (Гаудия-сампрадая):
+Бхагавад-гита — самая читаемая теистическая наука, прославленная в Гита-махатмье. Там говорится, что её следует изучать с помощью преданного Шри Кришны, без личных толкований. Пример такого понимания — Арджуна, услышавший её непосредственно от Господа. Тот, кто изучает Гиту в ученической преемственности, превосходит все ведические знания.
+
+В этом диалоге Дхритараштра и Санжая раскрывается основа великой философии. Она возникла на священном поле Курукшетры и была изложена Самим Господом.
+
+Слово dharma-kṣetra важно, ибо здесь сражался Арджуна при поддержке Верховного Господа. Дхритараштра сомневался в победе своих сыновей, опасаясь влияния святого места на добродетельных Пандавов. Санжая, ученик Вьясы, по его милости видел происходящее на поле.
+
+Дхритараштра называл Кауравами только своих сыновей, отделяя Пандавов. Как на поле очищают зерно от сорняков, так и на этом поле дхармы должны были быть устранены нечестивцы, а праведные цари, во главе с Юдхиштхирой, утверждены Господом.
+
+⸻
+
+Комментарий Шрилы Вишванатхи Чакраварти Тхакура (Гаудия-сампрадая):
+Как Арджуна впал в замешательство? Вайшампаяна рассказал Джанамеджайе:
+Дхритараштра спросил: «Что делали мои сыновья и Пандавы на Курукшетре?»
+«Но ведь ты сам сказал, что они хотят сражаться!»
+
+Курукшетра — место поклонения Господу (kurukṣetram deva yajanam, Шатапатха Брахмана).
+
+Здесь Дурьйодхана и его спутники могли бы оставить гнев. Пандавы — приверженцы дхармы. Оба рода могли прийти к миру.
+
+Внешне Дхритараштра выражал надежду на мир, но внутренне опасался: если битвы не будет, его сыновья не смогут удержать власть. Он скрывал это перед Санжаей.
+
+Dharma-kṣetra — поле взращивания дхармы. Кришна поддерживал Юдхиштхиру. Сорняки (Дурьйодхана и др.) также росли здесь, но должны были быть уничтожены.
+
+⸻
+
+Комментарий Шри Рамануджи (Шри-сампрадая):
+1.1–1.19. Дурьйодхана, увидев войска Пандавов под защитой Бхимы и свои — под защитой Бхишмы, поведал свои опасения Дроне. Бхишма, чтобы ободрить его, громко затрубил в раковину. Арджуна и Шри Кришна, его возничий, также затрубили в божественные раковины. Их звук поразил сердца Кауравов.
+
+⸻
+
+Комментарий Шри Шридхара Свами (Рудра-сампрадая):
+В этом первом стихе Вьясадева повествует о месте и событии. Санжая видел происходящее по милости Вьясы. Здесь начинается изложение тонкостей дхармы.
+
+Слова Верховного Господа Кришны, изложенные в Бхагавад-гите, устраняют необходимость изучать другие писания.
+
+⸻
+
+Комментарий Шри Мадхвачарьи (Брахма-сампрадая):
+Комментария к этому стиху нет.
+
+⸻
+
+Комментарий Шри Кешавы Кашмири (Кумара-сампрадая):
+Господь Кришна наставляет Арджуну. Дхритараштра вспоминал доблесть Арджуны, его божественное оружие и победы. Он сомневался: не испугаются ли его сыновья могущества Пандавов?
+
+Курукшетра — место рождения дхармы, священных жертвоприношений. Тех, кто умирает здесь, не оплакивают.
+
+Фраза dharma-kṣetra kuru-kṣetra имеет два значения:
+	1.	Его сыновья могут отказаться от узурпированного царства,
+	2.	Пандавы могут отказаться от войны, осознав греховность убийства родных.
+
+⸻
+
+Комментарий Шри Шанкарачарьи (Адвайта-сампрадая):
+Комментарий начинается с 2.10.
+
+⸻
+
+Комментарий Шри Абхинавагупты (Каулa Тантра-сампрадая):
+Некоторые объясняют: Курукшетра — тело человека, kṣetra — поле деятельности чувств. Здесь происходит внутренняя борьба.
+
+Мои (māmakāḥ) — желания, порожденные невежеством.
+Пандавы — устремления чистого знания.
+
+⸻
+
+Шлока без диакритики:
+дхритараштра увача
+дхарма-кшетре куру-кшетре
+самавета юйютсавах
+мамаках пандаваш чаива
+ким акурвата санжая
+
+⸻
+
+Пословный перевод:
+dhṛtarāṣṭraḥ uvāca — Дхритараштра сказал
+dharma-kṣetre — на поле дхармы
+kuru-kṣetre — на Курукшетре
+samavetāḥ — собравшиеся
+yuyutsavaḥ — желающие сражаться
+māmakāḥ — мои (сыновья)
+pāṇḍavāḥ — сыновья Панду
+ca — и
+eva — действительно
+kim — что
+akurvata — сделали
+sañjaya — о Санжая 
+## 1.2  
 sañjaya uvāca
-dṛṣṭvā tu pāṇḍavānīkaḿ
-vyūḍhaḿ duryodhanas tadā
-ācāryam upasańgamya
+dṛṣṭvā tu pāṇḍavānīkaḿ
+vyūḍhaḿ duryodhanas tadā
+ācāryam upasaṅgamya
 rājā vacanam abravīt
 
-Translation of Bhagavad Gita 1.2
+Перевод стиха:
+Санжая сказал: О царь, увидев выстроенное в боевой порядок войско Пандавов, царь Дурьйодхана подошёл к своему наставнику и произнёс следующие слова.
 
-Sanjaya said: O King, after looking over the army arranged in military formation by the sons of Pandu, King Duryodhana went to his teacher and spoke the following words.
+⸻
 
+Комментарий Шрилы А.Ч. Бхактиведанты Свами Прабхупады (Гаудия-сампрадая):
+Дхритараштра был слеп от рождения, и у него не было духовного зрения. Он знал, что его сыновья столь же слепы в вопросах дхармы, и понимал, что они не смогут договориться с Пандавами, праведными по природе. Тем не менее он тревожился о влиянии святого места. Санжая уловил этот мотив и поспешил успокоить царя: его сыновья не собирались идти на компромисс.
 
-Commentary by Sri A.C. Bhaktivedanta Swami Prabhupada of Gaudiya Sampradaya:
+Он сообщил, что, увидев армию Пандавов, Дурьйодхана немедленно направился к главнокомандующему Дроначарье. Хотя Дурьйодхана был царём, он обратился за советом к учителю — такова была серьёзность момента. Его политическое поведение не могло скрыть страха перед силой Пандавов.
 
-Dhritarashtra was blind from birth. Unfortunately, he was also bereft of spiritual vision. He knew very well that his sons were equally blind in the matter of religion, and he was sure that they could never reach an understanding with the Pandavas, who were all pious since birth. Still he was doubtful about the influence of the place of pilgrimage, and Sanjaya could understand his motive in asking about the situation on the battlefield. Sanjaya wanted, therefore, to encourage the despondent king and thus assured him that his sons were not going to make any sort of compromise under the influence of the holy place. Sanjaya therefore informed the king that his son, Duryodhana, after seeing the military force of the Pandavas, at once went to the commander in chief, Dronacarya, to inform him of the real position. Although Duryodhana is mentioned as the king, he still had to go to the commander on account of the seriousness of the situation. He was therefore quite fit to be a politician. But Duryodhana’s diplomatic veneer could not disguise the fear he felt when he saw the military arrangement of the Pandavas.
+⸻
 
-Commentary by Sri Vishvanatha Chakravarthi Thakur of Gaudiya Sampradaya:
+Комментарий Шрилы Вишванатхи Чакраварти Тхакура (Гаудия-сампрадая):
+См. комментарий к стиху 1.3 (общий для стихов 1.2–1.3).
 
-Please see text 3 for Sri Vishwanatha Chakravarthi Thakur’s combined commentary to texts 2 and 3.
+⸻
 
-Commentary by Sri Ramanuja of Sri Sampradaya:
+Комментарий Шри Рамануджи (Шри-сампрадая):
+1.1–1.19. Дурьйодхана, оценив силы Пандавов под защитой Бхимы и свои, ведомые Бхишмой, обратился к Дроне с речью о недостаточности своих войск для победы. Потрясённый, он получил поддержку от Бхишмы, который громогласно затрубил, подбадривая своих воинов.
 
-1.1 – 1.19 Dhrtarastra said — Sanjaya said — Duryodhana, after viewing the forces of Pandavas protected by Bhima, and his own forces protected by Bhisma conveyed his views thus to Drona, his teacher, about the adequacy of Bhima’s forces for conquering the Kaurava forces and the inadequacy of his own forces for victory against the Pandava forces. He was grief-stricken within. Observing his (Duryodhana’s) despondecny, Bhisma, in order to cheer him, roared like a lion, and then blowing his conch, made his side sound their conchs and kettle-drums, which made an uproar as a sign of victory. Then, having heard that great tumult, Arjuna and Sri Krsna the Lord of all lords, who was acting as the charioteer of Arjuna, sitting in their great chariot which was powerful enough to conquer the three worlds; blew their divine conchs Srimad Pancajanya and Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs separately. That tumult rent asunder the hearts of your sons, led by Duryodhana. The sons of Dhrtarastra then thought, ‘Our cause is almost lost now itself.’ So said Sanjaya to Dhrtarastra who was longing for their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas, who were ready for battle, Arjuna, who had Hanuman, noted for his exploit of burning Lanka, as the emblem on his flag on his chariot, directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by parental love for those who take shelter in Him who is the treasure-house of knowledge, power, lordship, energy, potency and splendour, whose sportive delight brings about the origin, sustentation and dissolution of the entire cosmos at His will, who is the Lord of the senses, who controls in all ways the senses inner and outer of all, superior and inferior — by saying, ‘Station my chariot in an appropriate place in order that I may see exactly my enemies who are eager for battle.’
+⸻
 
-Commentary by Sri Sridhara Swami of Rudra Sampradaya:
+Комментарий Шри Шридхара Свами (Рудра-сампрадая):
+Увидев построение армии Пандавов, готовой к битве, царь Дурьйодхана подошёл к своему наставнику Дроне и заговорил с ним.
 
-Having seen the armies of the Pandavas arrayed in military formation ready for battle, King Duryodhana approaches his preceptor Drona and spoke the following words.
+⸻
 
-Commentary by Sri Madhvacharya of Brahma Sampradaya:
+Комментарий Шри Мадхвачарьи (Брахма-сампрадая):
+Комментария к этому стиху нет.
 
-Sri Madhvacharya did not comment on this sloka.
+⸻
 
-Commentary by Sri Keshava Kashmiri of Kumara Sampradaya:
+Комментарий Шри Кешавы Кашмири (Кумара-сампрадая):
+Вайшампаяна передаёт слова Санжаи, который понимал скрытую тревогу слепого Дхритараштры за судьбу своих сыновей. Санжая сообщил, что Дурьйодхана, увидев могущество армии Пандавов, подошёл к своему наставнику по искусству войны Дроне. В этом стихе намекается на скрытое волнение Дурьйодханы перед мощью Пандавов.
 
-In this way, Vaisampayana reiterates the answer of Sanjaya who could truly understand the blind Dtritarastra’s hidden desire his heart being locked in affection for his sons welfare irregardless of righteousness. Sanjaya then replies that King Duryodhana upon seeing the formidable army of the Pandava arranged in military phalanxes approached Drona his instructor in archery and weaponry and uttered these words. By this verse the alarm within the mind of Duryodhana caused by seeing the might of the Pandava army is subtlety suggested.
+⸻
 
-Commentary by Sri Adi Shankaracharya of Advaita Sampradaya:
+Комментарий Шри Шанкарачарьи (Адвайта-сампрадая):
+Комментарий начинается с 2.10.
 
-1.2 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
+⸻
 
-Commentary by Sri Abhinavagupta of Kaula Tantra Sampradaya:
+Комментарий Шри Абхинавагупты (Каулa Тантра-сампрадая):
+1.2–1.9. Почему столь подробный перечень? Такова истинная природа происходящего…
 
-1.2 –– 1.9 Why this exhaustive counting? The reality of things is this:
+⸻
 
-Sanskrit Shloka Without Transliteration Marks:
+Шлока без диакритики:
+санжая увача
+дриштва ту пандаваникам
+вьюдхам дурьйодханас тада
+ачарйам упасангамйа
+раджа вачанам абравит
 
-sanjaya uvaca
-drstva tu pandavanikam
-vyudham duryodhanas tada
-acaryam upasangamya
-raja vacanam abravit
+⸻
 
-Sanskrit to English Word for Word Meanings:
-
-sañjayaḥ uvāca — Sañjaya said; dṛṣṭvā — after seeing; tu — but; pāṇḍava-anīkam — the soldiers of the Pāṇḍavas; vyūḍham — arranged in a military phalanx; duryodhanaḥ — King Duryodhana; tadā — at that time; ācāryam — the teacher; upasańgamya — approaching; rājā — the king; vacanam — words; abravīt — spoke.
-
-
-## 1.2  
-**sañjaya uvāca
-dṛṣṭvā tu pāṇḍavānīkaḿ
-vyūḍhaḿ duryodhanas tadā
-ācāryam upasańgamya
-rājā vacanam abravīt**
-
-**Translation of Bhagavad Gita 1.2**
-
-Sanjaya said: O King, after looking over the army arranged in military formation by the sons of Pandu, King Duryodhana went to his teacher and spoke the following words.
-
-
-**Commentary by Sri A.C. Bhaktivedanta Swami Prabhupada of Gaudiya Sampradaya:**
-
-Dhritarashtra was blind from birth. Unfortunately, he was also bereft of spiritual vision. He knew very well that his sons were equally blind in the matter of religion, and he was sure that they could never reach an understanding with the Pandavas, who were all pious since birth. Still he was doubtful about the influence of the place of pilgrimage, and Sanjaya could understand his motive in asking about the situation on the battlefield. Sanjaya wanted, therefore, to encourage the despondent king and thus assured him that his sons were not going to make any sort of compromise under the influence of the holy place. Sanjaya therefore informed the king that his son, Duryodhana, after seeing the military force of the Pandavas, at once went to the commander in chief, Dronacarya, to inform him of the real position. Although Duryodhana is mentioned as the king, he still had to go to the commander on account of the seriousness of the situation. He was therefore quite fit to be a politician. But Duryodhana’s diplomatic veneer could not disguise the fear he felt when he saw the military arrangement of the Pandavas.
-
-**Commentary by Sri Vishvanatha Chakravarthi Thakur of Gaudiya Sampradaya:**
-
-Please see text 3 for Sri Vishwanatha Chakravarthi Thakur’s combined commentary to texts 2 and 3.
-
-**Commentary by Sri Ramanuja of Sri Sampradaya:**
-
-1.1 – 1.19 Dhrtarastra said — Sanjaya said — Duryodhana, after viewing the forces of Pandavas protected by Bhima, and his own forces protected by Bhisma conveyed his views thus to Drona, his teacher, about the adequacy of Bhima’s forces for conquering the Kaurava forces and the inadequacy of his own forces for victory against the Pandava forces. He was grief-stricken within. Observing his (Duryodhana’s) despondecny, Bhisma, in order to cheer him, roared like a lion, and then blowing his conch, made his side sound their conchs and kettle-drums, which made an uproar as a sign of victory. Then, having heard that great tumult, Arjuna and Sri Krsna the Lord of all lords, who was acting as the charioteer of Arjuna, sitting in their great chariot which was powerful enough to conquer the three worlds; blew their divine conchs Srimad Pancajanya and Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs separately. That tumult rent asunder the hearts of your sons, led by Duryodhana. The sons of Dhrtarastra then thought, ‘Our cause is almost lost now itself.’ So said Sanjaya to Dhrtarastra who was longing for their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas, who were ready for battle, Arjuna, who had Hanuman, noted for his exploit of burning Lanka, as the emblem on his flag on his chariot, directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by parental love for those who take shelter in Him who is the treasure-house of knowledge, power, lordship, energy, potency and splendour, whose sportive delight brings about the origin, sustentation and dissolution of the entire cosmos at His will, who is the Lord of the senses, who controls in all ways the senses inner and outer of all, superior and inferior — by saying, ‘Station my chariot in an appropriate place in order that I may see exactly my enemies who are eager for battle.’
-
-**Commentary by Sri Sridhara Swami of Rudra Sampradaya:**
-
-Having seen the armies of the Pandavas arrayed in military formation ready for battle, King Duryodhana approaches his preceptor Drona and spoke the following words.
-
-Commentary by Sri Madhvacharya of Brahma Sampradaya:
-
-Sri Madhvacharya did not comment on this sloka.
-
-**Commentary by Sri Keshava Kashmiri of Kumara Sampradaya:**
-
-In this way, Vaisampayana reiterates the answer of Sanjaya who could truly understand the blind Dtritarastra’s hidden desire his heart being locked in affection for his sons welfare irregardless of righteousness. Sanjaya then replies that King Duryodhana upon seeing the formidable army of the Pandava arranged in military phalanxes approached Drona his instructor in archery and weaponry and uttered these words. By this verse the alarm within the mind of Duryodhana caused by seeing the might of the Pandava army is subtlety suggested.
-
-**Commentary by Sri Adi Shankaracharya of Advaita Sampradaya:**
-
-1.2 Sri Sankaracharya did not comment on this sloka. The commentary starts from 2.10.
-
-**Commentary by Sri Abhinavagupta of Kaula Tantra Sampradaya:**
-
-1.2 –– 1.9 Why this exhaustive counting? The reality of things is this:
-
-**Sanskrit Shloka Without Transliteration Marks:**
-
-sanjaya uvaca
-drstva tu pandavanikam
-vyudham duryodhanas tada
-acaryam upasangamya
-raja vacanam abravit
-
-**Sanskrit to English Word for Word Meanings:**
-
-sañjayaḥ uvāca — Sañjaya said; dṛṣṭvā — after seeing; tu — but; pāṇḍava-anīkam — the soldiers of the Pāṇḍavas; vyūḍham — arranged in a military phalanx; duryodhanaḥ — King Duryodhana; tadā — at that time; ācāryam — the teacher; upasańgamya — approaching; rājā — the king; vacanam — words; abravīt — spoke.
-
+Пословный перевод:
+sañjayaḥ uvāca — Санжая сказал
+dṛṣṭvā — увидев
+tu — однако
+pāṇḍava-anīkam — армию Пандавов
+vyūḍham — выстроенную
+duryodhanaḥ — Дурьйодхана
+tadā — тогда
+ācāryam — учителю
+upasaṅgamya — подойдя
+rājā — царь
+vacanam — слова
+abravīt — произнёс
+  
